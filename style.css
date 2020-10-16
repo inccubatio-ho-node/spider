@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     box-sizing: border-box;
 }
@@ -5,3 +6,10 @@
 body{
     background-color: orange;
 }
+=======
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+  background-image: linear-gradient(90deg, #778899, #787878);
+}
+>>>>>>> bb331fc2c067c32f58574d78f145beb3886f7351
